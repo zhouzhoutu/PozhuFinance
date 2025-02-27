@@ -16,15 +16,15 @@
 希望在这里更新的内容，既能提升自己在财经投资上的技能，也能便于自己日后复盘总结。
 
 
-## 仓库规则
-### 仓库目录
+## 仓库使用说明
+### 目录介绍
 
 - [**Resources**](https://github.com/zhouzhoutu/PozhuFinance/tree/main/Resources):平台讲师推荐财经类电子书,研报，与我个人推荐的财经投资类资源
 - [**Notes**](https://github.com/zhouzhoutu/PozhuFinance/tree/main/Notes): 个人笔记及破竹偶尔会发的讲师学习笔记收集；
 - [**Live**](https://github.com/zhouzhoutu/PozhuFinance/tree/main/Live): 自己感兴趣的内容用AI总结的直播回放文稿,可以根据大纲选择自己感兴趣的去看原视频。
 - [**Other**](https://github.com/zhouzhoutu/PozhuFinance/tree/main/Other): 其他消息（主要保存用于后续验证）
 
-### 仓库明细
+### 目录明细
 ```
 ├── Live
 │   ├── 20250217-吴小平：横贯 2025 的投资大策略.md
@@ -46,5 +46,6 @@
     └── 行业研报.md
 ```
 
-## 后续更新
-- 第一阶段陆续把资源和笔记同步过来，直播文稿视情况生成一个目录。
+## 后续计划
+- 第一阶段陆续把资源和笔记同步过来，直播文稿视情况生成一个目录
+- 
