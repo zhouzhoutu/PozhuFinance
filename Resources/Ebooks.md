@@ -10,3 +10,4 @@
 ## 经济学
 [《货币金融学 第11版 弗雷德里克·S.米什金》](https://pan.quark.cn/s/a439eca7e350)
 
+[《89-逃不开的经济周期历史理论与投资现实》](https://pan.quark.cn/s/a0db30cb92d6)
