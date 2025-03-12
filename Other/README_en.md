@@ -23,6 +23,7 @@ I hope that the content updated here can not only improve my skills in financial
 - [**Other**](https://github.com/zhouzhoutu/PozhuFinance/tree/main/Other): Other information (mainly saved for future verification).
 
 ### Directory Details
+```
 ├── Live
 │   ├── 20250217-Wu Xiaoping: The Grand Investment Strategy for 2025.md
 │   ├── 20250220-Zhong Hao: How will the stock market and the US dollar exchange rate perform this year?.md
@@ -35,6 +36,7 @@ I hope that the content updated here can not only improve my skills in financial
 │   └── 20250306-Wu Xiaoping: Cherish today, as it's the youngest you'll ever be in your life.md
 │   └── 20250309-Investment Trends in March: Seize Opportunities and Move Forward Steadily_Chinese-English.md
 
+
 ├── Notes
 │   ├── 20210420-Management is Control + Centripetal Force.md
 │   ├── Excellent student learning notes on "From National Will to Artificial Intelligence Application: The Profound Changes in the Economic Landscape in 2025" by Teacher Wu Xiaoping.pdf
@@ -45,7 +47,7 @@ I hope that the content updated here can not only improve my skills in financial
 └── Resources
 ├── Ebooks.md
 └── Industry Research Reports.md
-
+```
 
 ## Update Plan
 - [x] 20250311 - To facilitate foreign language users, the live broadcast notes are generated in both Chinese and English for bilingual reading, making it more international.
