@@ -1,3 +1,4 @@
+[中文](README.md) | [English](Other/README_en.md)
 
 ## 仓库简介
 
