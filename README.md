@@ -5,7 +5,9 @@
 在破竹 APP上学习投资相关的知识，这个仓库会将笔记，资料等信息同步分享。
 
 也可以加我好友进社群 
+
 TG：@zhou2hou
+
 Discord: **https://discord.gg/9PRrT4rH**
 
 
